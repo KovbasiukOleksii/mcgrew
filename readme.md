@@ -7,4 +7,8 @@
 * Media queries
 * Methodology BEM
 ***
-
+Google Audits:
+* Perfomance 98%
+* Accessibility 91%
+* Best Practices 100%
+* SEO 100%
